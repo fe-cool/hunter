@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>RSS</title>
+  <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+  <link>/</link>
+  <description>GitHub Discussions</description>
+  <item>
+  <title><![CDATA[如何排查webpack打包产物大的问题？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/1</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/1</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">在<code class="notranslate">DEV</code>环境开发时，发现<code class="notranslate">webpack</code>打包用时很长，打包产物大，如何定位并解决这个问题，请说出详细步骤</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/1#issuecomment-1074746441" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/1/hovercard">XeryYue的回答</a></p>
+<h2 dir="auto">答题同学须知</h2>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h2 dir="auto">围观同学须知</h2>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现 add(1)(2)(3)(4) = 10]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/2</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/2</guid>
+  <pubDate>2022-03-23</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">实现<strong>add</strong>函数，使得：</p>
+<p dir="auto"><code class="notranslate">add(1)(2)(3)(4)</code>输出结果为<strong>10</strong></p>
+<p dir="auto"><code class="notranslate">add(1)(2)(3)</code>输出结果为<strong>6</strong></p>
+<p dir="auto">请给出满足<strong>普遍条件</strong>的答案，写出你的实现思路和完整代码</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/2#issuecomment-1074694344" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/2/hovercard">chanchunlei的回答</a></p>
+<h2 dir="auto">答题同学须知</h2>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h2 dir="auto">围观同学须知</h2>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准，<strong>非答题相关评论</strong>会被删除</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[React应用卡顿该如何排查？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/3</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/3</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">用户反馈你们的应用操作起来卡顿，应用是<strong>React</strong>开发的，你该如何排查是哪些组件造成性能瓶颈？请写出你的排查步骤</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> 本题的重点是排查组件性能瓶颈，请将重点放在<strong>React</strong>上，而不是通用的性能优化策略</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/3#issuecomment-1074714192" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/3/hovercard">jerry-lllman的回答</a></p>
+<h2 dir="auto">答题同学须知</h2>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h2 dir="auto">围观同学须知</h2>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[首屏渲染白屏时间如何优化？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/4</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/4</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">接用户反馈，你司网站<code class="notranslate">首次进入</code>到<code class="notranslate">内容出现</code>间会有一段不小的<code class="notranslate">白屏时间</code>。该网站是用<code class="notranslate">前端框架</code>开发的<code class="notranslate">CSR</code>（Client Side Rendering，客户端渲染）应用，请以如下顺序回答：</p>
+<ol dir="auto">
+<li>如何分析首屏加载CSR的性能？</li>
+<li>分析后如何找出CSR性能瓶颈？</li>
+<li>如何解决CSR性能瓶颈？</li>
+<li>有没有其他渲染方案可以解决CSR当前问题，他的原理是什么？</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/4#issuecomment-1075856575" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/4/hovercard">jerry-lllman的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h3 dir="auto">围观同学须知</h3>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何应对产品经理中途改需求？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/5</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/5</guid>
+  <pubDate>2022-10-27</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">与你对接项目的产品经理很有自己的想法，<code class="notranslate">需求评审</code>敲定方案后，在你开发中途他经常以<code class="notranslate">当面口述</code>的方式找你<code class="notranslate">改需求</code>。为了保证上线时间不推迟，你被迫熬夜加班。请从以下顺序回答该问题：</p>
+<ol dir="auto">
+<li>是什么导致你加班？</li>
+<li>如何<code class="notranslate">专业的</code>（不抖机灵，不情绪化）解决这个问题，请详述你的解决步骤？</li>
+<li>解决方案如何固化成<code class="notranslate">正式工作流程</code>，防止后续再发生这样的事？</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/5#issuecomment-1075837275" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/5/hovercard">jerry-lllman的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h3 dir="auto">围观同学须知</h3>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现一个串行请求队列]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/6</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/6</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">对于异步请求<code class="notranslate">ajaxN</code>，其中<code class="notranslate">N</code>代表<code class="notranslate">请求的执行时间</code>，如<code class="notranslate">ajax1</code>代表<code class="notranslate">请求1秒后返回</code>。</p>
+<p dir="auto">实现一个串行请求队列<code class="notranslate">serial</code>函数，接收<code class="notranslate">包含异步请求的数组</code>，按顺序依次执行。</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="const ajaxArr: Ajax[] = [ajax1, ajax2, ajax4];
+
+function serial(ajaxArr: Ajax[]) {
+  // 实现...
+}
+
+serial(ajaxArr)
+// 1秒后ajax1请求完毕
+// 再过2秒，ajax2请求完毕
+// 再过4秒，ajax4请求完毕"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-s1">ajaxArr</span>: <span class="pl-v">Ajax</span><span class="pl-kos">[</span><span class="pl-kos">]</span> <span class="pl-c1">=</span> <span class="pl-kos">[</span><span class="pl-s1">ajax1</span><span class="pl-kos">,</span> <span class="pl-s1">ajax2</span><span class="pl-kos">,</span> <span class="pl-s1">ajax4</span><span class="pl-kos">]</span><span class="pl-kos">;</span>
+
+<span class="pl-k">function</span> <span class="pl-en">serial</span><span class="pl-kos">(</span><span class="pl-s1">ajaxArr</span>: <span class="pl-v">Ajax</span><span class="pl-kos">[</span><span class="pl-kos">]</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-c">// 实现...</span>
+<span class="pl-kos">}</span>
+
+<span class="pl-en">serial</span><span class="pl-kos">(</span><span class="pl-s1">ajaxArr</span><span class="pl-kos">)</span>
+<span class="pl-c">// 1秒后ajax1请求完毕</span>
+<span class="pl-c">// 再过2秒，ajax2请求完毕</span>
+<span class="pl-c">// 再过4秒，ajax4请求完毕</span></pre></div>
+<p dir="auto">请给出你的<code class="notranslate">实现方法</code>和<code class="notranslate">文字描述</code></p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">简洁的答案：<a href="https://github.com/BetaSu/fe-hunter/issues/6#issuecomment-1075827760" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/6/hovercard">fightZy的回答</a><br>
+完备的答案：<a href="https://github.com/BetaSu/fe-hunter/issues/6#issuecomment-1076140316" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/6/hovercard">codingJJJ的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h3 dir="auto">围观同学须知</h3>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[遇到线上bug该如何处理？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/8</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/8</guid>
+  <pubDate>2022-03-24</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">经过开发、联调、测试，你的新需求终于上线了。好景不长，在平稳运行几天后，某一天突然发现<code class="notranslate">线上报警陡增</code>，看来是新上线的功能有bug，请从以下顺序谈谈你的解决方式：</p>
+<ol dir="auto">
+<li>发现bug的当时，你会怎么做？</li>
+<li>bug修复后，公司开始追责，其他人（测试、后端、产品）比较倾向是前端（你）的责任，你会从哪些方面反驳他们？</li>
+<li>事后复盘时，总结经验教训，你会提出哪些建议，防止类似事情再发生？</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/8#issuecomment-1077034932" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/8/hovercard">Dante-dan的回答</a>逻辑严密，给出详细排查步骤</p>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/8#issuecomment-1077047577" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/8/hovercard">jerry-lllman的回答</a>给出了具体话术示例</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何选择前端打包工具？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/9</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/9</guid>
+  <pubDate>2022-03-29</pubDate>
+  <description><![CDATA[<h2 dir="auto">问题描述</h2>
+
+
+<p dir="auto">当前市面上有很多前端打包工具，比如：</p>
+<ul dir="auto">
+<li>webpack</li>
+<li>rollup</li>
+<li>vite</li>
+<li>parcel</li>
+<li>browserify</li>
+</ul>
+<p dir="auto">他们各有侧重，又有功能交集。当你在搭建一个新项目时，该如何选择打包工具呢？可以从以下方面回答：</p>
+<ul dir="auto">
+<li>打包工具适合的业务场景？</li>
+<li>打包工具社区生态是否丰富？</li>
+<li>打包工具的可扩展性？</li>
+<li>打包工具的上手难度</li>
+<li>......</li>
+</ul>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/9#issuecomment-1077019965" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/9/hovercard">XeryYue的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<p dir="auto">最佳答案由<code class="notranslate">围观同学</code>的<code class="notranslate">👍</code>和<a href="https://github.com/BetaSu">卡颂</a>共同决定。<strong>非答题相关评论</strong>会被删除，问题相关内容讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>里讨论</p>
+<h3 dir="auto">围观同学须知</h3>
+<p dir="auto">对于你满意的答案，请不要吝惜你的<code class="notranslate">👍</code>，这是评选<strong>最佳答案</strong>的标准</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现一个LazyMan]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/13</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/13</guid>
+  <pubDate>2022-03-25</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+<p dir="auto">实现一个 LazyMan，按照以下方式调用时，得到相关输出。</p>
+
+<h3 dir="auto">代码示例</h3>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="LazyMan(&quot;Hank&quot;)
+// 打印：Hi! This is Hank!
+
+LazyMan(&quot;Hank&quot;).sleep(10).eat(&quot;dinner&quot;)
+// 打印：Hi! This is Hank!
+// 等待了 10 秒后
+// 打印：Wake up after 10
+// 打印：Eat dinner~
+ 
+LazyMan(&quot;Hank&quot;).eat(&quot;dinner&quot;).eat(&quot;supper&quot;)
+// 打印：Hi This is Hank!
+// 打印：Eat dinner~
+// 打印：Eat supper~
+ 
+LazyMan(&quot;Hank&quot;).sleepFirst(5).eat(&quot;supper&quot;)
+// 等待了 5 秒后
+// 打印：Wake up after 5
+// 打印：Hi This is Hank!
+// 打印：Eat supper
+
+LazyMan(&quot;Hank&quot;).eat(&quot;supper&quot;).sleepFirst(5)
+// 等待了 5 秒后
+// 打印：Wake up after 5
+// 打印：Hi This is Hank!
+// 打印：Eat supper"><pre class="notranslate"><span class="pl-v">LazyMan</span><span class="pl-kos">(</span><span class="pl-s">"Hank"</span><span class="pl-kos">)</span>
+<span class="pl-c">// 打印：Hi! This is Hank!</span>
+
+<span class="pl-v">LazyMan</span><span class="pl-kos">(</span><span class="pl-s">"Hank"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">sleep</span><span class="pl-kos">(</span><span class="pl-c1">10</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">eat</span><span class="pl-kos">(</span><span class="pl-s">"dinner"</span><span class="pl-kos">)</span>
+<span class="pl-c">// 打印：Hi! This is Hank!</span>
+<span class="pl-c">// 等待了 10 秒后</span>
+<span class="pl-c">// 打印：Wake up after 10</span>
+<span class="pl-c">// 打印：Eat dinner~</span>
+<span class="pl-s1"> </span>
+<span class="pl-v">LazyMan</span><span class="pl-kos">(</span><span class="pl-s">"Hank"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">eat</span><span class="pl-kos">(</span><span class="pl-s">"dinner"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">eat</span><span class="pl-kos">(</span><span class="pl-s">"supper"</span><span class="pl-kos">)</span>
+<span class="pl-c">// 打印：Hi This is Hank!</span>
+<span class="pl-c">// 打印：Eat dinner~</span>
+<span class="pl-c">// 打印：Eat supper~</span>
+<span class="pl-s1"> </span>
+<span class="pl-v">LazyMan</span><span class="pl-kos">(</span><span class="pl-s">"Hank"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">sleepFirst</span><span class="pl-kos">(</span><span class="pl-c1">5</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">eat</span><span class="pl-kos">(</span><span class="pl-s">"supper"</span><span class="pl-kos">)</span>
+<span class="pl-c">// 等待了 5 秒后</span>
+<span class="pl-c">// 打印：Wake up after 5</span>
+<span class="pl-c">// 打印：Hi This is Hank!</span>
+<span class="pl-c">// 打印：Eat supper</span>
+
+<span class="pl-v">LazyMan</span><span class="pl-kos">(</span><span class="pl-s">"Hank"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">eat</span><span class="pl-kos">(</span><span class="pl-s">"supper"</span><span class="pl-kos">)</span><span class="pl-kos">.</span><span class="pl-en">sleepFirst</span><span class="pl-kos">(</span><span class="pl-c1">5</span><span class="pl-kos">)</span>
+<span class="pl-c">// 等待了 5 秒后</span>
+<span class="pl-c">// 打印：Wake up after 5</span>
+<span class="pl-c">// 打印：Hi This is Hank!</span>
+<span class="pl-c">// 打印：Eat supper</span></pre></div>
+
+<h3 dir="auto">问题补充</h3>
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+ 
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/13#issuecomment-1077839583" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/13/hovercard">NoBey的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现MyNew方法]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/15</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/15</guid>
+  <pubDate>2022-03-25</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+<p dir="auto">我们可以使用<code class="notranslate">new</code>实例化一个构造函数，请根据<strong>实例化过程中构造函数内部工作流程</strong>，实现类似功能的<code class="notranslate">MyNew</code>方法。</p>
+
+<h3 dir="auto">代码示例</h3>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="function MyNew(fn, ...args) {
+  // 实现...
+}
+
+function Person(name, age) {
+  this.name = name;
+  this.age = age;
+}
+const kasong = MyNew(Person, 'KaSong', 18);
+console.log(kasong.age); // 18
+
+function Something(name) {
+  this.name = name;
+  return {name: 'something'};
+}
+const something = MyNew(Something, 'XiaoMing');
+console.log(something.name); // something"><pre class="notranslate"><span class="pl-k">function</span> <span class="pl-v">MyNew</span><span class="pl-kos">(</span><span class="pl-s1">fn</span><span class="pl-kos">,</span> ...<span class="pl-s1">args</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-c">// 实现...</span>
+<span class="pl-kos">}</span>
+
+<span class="pl-k">function</span> <span class="pl-v">Person</span><span class="pl-kos">(</span><span class="pl-s1">name</span><span class="pl-kos">,</span> <span class="pl-s1">age</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s1">name</span><span class="pl-kos">;</span>
+  <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">age</span> <span class="pl-c1">=</span> <span class="pl-s1">age</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span>
+<span class="pl-k">const</span> <span class="pl-s1">kasong</span> <span class="pl-c1">=</span> <span class="pl-v">MyNew</span><span class="pl-kos">(</span><span class="pl-v">Person</span><span class="pl-kos">,</span> <span class="pl-s">'KaSong'</span><span class="pl-kos">,</span> <span class="pl-c1">18</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-s1">kasong</span><span class="pl-kos">.</span><span class="pl-c1">age</span><span class="pl-kos">)</span><span class="pl-kos">;</span> <span class="pl-c">// 18</span>
+
+<span class="pl-k">function</span> <span class="pl-v">Something</span><span class="pl-kos">(</span><span class="pl-s1">name</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-smi">this</span><span class="pl-kos">.</span><span class="pl-c1">name</span> <span class="pl-c1">=</span> <span class="pl-s1">name</span><span class="pl-kos">;</span>
+  <span class="pl-k">return</span> <span class="pl-kos">{</span><span class="pl-c1">name</span>: <span class="pl-s">'something'</span><span class="pl-kos">}</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span>
+<span class="pl-k">const</span> <span class="pl-s1">something</span> <span class="pl-c1">=</span> <span class="pl-v">MyNew</span><span class="pl-kos">(</span><span class="pl-v">Something</span><span class="pl-kos">,</span> <span class="pl-s">'XiaoMing'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-s1">something</span><span class="pl-kos">.</span><span class="pl-c1">name</span><span class="pl-kos">)</span><span class="pl-kos">;</span> <span class="pl-c">// something</span></pre></div>
+
+<h3 dir="auto">问题补充</h3>
+ 
+<ol dir="auto">
+<li>请阐述<strong>实例化过程中构造函数内部工作流程</strong></li>
+<li>请写出代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/15#issuecomment-1078625200" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/15/hovercard">Chorer的回答</a></p>
+<p dir="auto">理由：实现完备，且包含问题补充中的所有要素</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何准备述职报告？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/16</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/16</guid>
+  <pubDate>2022-10-27</pubDate>
+  <description><![CDATA[<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明是个职场新人，下个月准备做述职报告，他很紧张。。。你能从以下几点给他建议么？</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">请从以下顺序回答该问题：</p>
+<ol dir="auto">
+<li>述职报告应该围绕哪些点展开？</li>
+<li>有哪些需要注意的可能的坑点？</li>
+<li>如何演讲才能展现自己真正的实力，让评委印象深刻？</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/16#issuecomment-1078750935" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/16/hovercard">eyea的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现检测数据类型的通用方法]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/25</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/25</guid>
+  <pubDate>2022-03-29</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto">封装一个检测 JavaScript 数据类型的通用方法，满足以下输出：</p>
+<h3 dir="auto">代码示例</h3>
+
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="getType({}) // object
+getType('a') // string
+getType(1) // number
+getType(true) // boolean
+getType(null) // null
+getType(undefined) // undefined
+getType(Symbol('a')) // symbol
+getType(11n) // bigint
+getType(/a/) // regexp
+getType(new Date()) // date
+getType([0, 1, 2]) // array
+getType(function() {}) // function
+getType(new Error()) // error
+getType(new Map()) // map
+getType(new Set()) // set"><pre class="notranslate"><span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-kos">{</span><span class="pl-kos">}</span><span class="pl-kos">)</span> <span class="pl-c">// object</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-s">'a'</span><span class="pl-kos">)</span> <span class="pl-c">// string</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-c1">1</span><span class="pl-kos">)</span> <span class="pl-c">// number</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-c1">true</span><span class="pl-kos">)</span> <span class="pl-c">// boolean</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-c1">null</span><span class="pl-kos">)</span> <span class="pl-c">// null</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-c1">undefined</span><span class="pl-kos">)</span> <span class="pl-c">// undefined</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-v">Symbol</span><span class="pl-kos">(</span><span class="pl-s">'a'</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-c">// symbol</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-c1">11n</span><span class="pl-kos">)</span> <span class="pl-c">// bigint</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-pds"><span class="pl-c1">/</span>a<span class="pl-c1">/</span></span><span class="pl-kos">)</span> <span class="pl-c">// regexp</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-k">new</span> <span class="pl-v">Date</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-c">// date</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-kos">[</span><span class="pl-c1">0</span><span class="pl-kos">,</span> <span class="pl-c1">1</span><span class="pl-kos">,</span> <span class="pl-c1">2</span><span class="pl-kos">]</span><span class="pl-kos">)</span> <span class="pl-c">// array</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-k">function</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-kos">{</span><span class="pl-kos">}</span><span class="pl-kos">)</span> <span class="pl-c">// function</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-k">new</span> <span class="pl-v">Error</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-c">// error</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-k">new</span> <span class="pl-v">Map</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-c">// map</span>
+<span class="pl-en">getType</span><span class="pl-kos">(</span><span class="pl-k">new</span> <span class="pl-v">Set</span><span class="pl-kos">(</span><span class="pl-kos">)</span><span class="pl-kos">)</span> <span class="pl-c">// set</span></pre></div>
+<h3 dir="auto">问题补充</h3>
+ 
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/25#issuecomment-1079900899" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/25/hovercard">blackcoffeecat的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何实现水平垂直居中？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/26</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/26</guid>
+  <pubDate>2022-04-02</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要回答的问题</h3>
+
+<p dir="auto">实现水平垂直居中布局</p>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>请从以下角度回答该问题：</li>
+</ol>
+<ul dir="auto">
+<li>元素定宽高</li>
+<li>元素不定宽高</li>
+</ul>
+<ol start="2" dir="auto">
+<li>多种实现方式是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/26#issuecomment-1080095904" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/26/hovercard">c0dedance的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[面对裁员该怎么办？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/27</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/27</guid>
+  <pubDate>2022-03-31</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">部门最近效益不好，盛传裁员的消息。为了防止HR恶意裁员，投诉无门，小明希望早做准备。</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">请你从以下角度给小明支支招：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">他需要作何准备？</p>
+</li>
+<li>
+<p dir="auto">需要收集哪些证据以防万一？</p>
+</li>
+<li>
+<p dir="auto">聊聊HR会有哪些常见招数？</p>
+</li>
+</ul>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<p dir="auto">请从以上角度谈谈，内容详实、有可操作性是加分项</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/27#issuecomment-1080201842" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/27/hovercard">kasoqian的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Twitter源码中前十行的作用是？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/29</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/29</guid>
+  <pubDate>2022-03-30</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要回答的问题</h3>
+
+<p dir="auto">这是<code class="notranslate">Twitter</code>的前十行代码，请逐行解释他们的作用：</p>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;!DOCTYPE html&gt;
+&lt;html dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;
+&lt;meta charset=&quot;utf-8&quot; /&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover&quot; /&gt;
+&lt;link rel=&quot;preconnect&quot; href=&quot;//abs.twimg.com&quot; /&gt;
+&lt;link rel=&quot;dns-prefetch&quot; href=&quot;//abs.twimg.com&quot; /&gt;
+&lt;link rel=&quot;preload&quot; as=&quot;script&quot; crossorigin=&quot;anonymous&quot; href=&quot;https://abs.twimg.com/responsive-web/client-web/vendors~main.251a14e5.js&quot; nonce=&quot;ODlhNDZiYmMtZGNiOC00MDcxLTg5MmYtMTg2Y2NkYjVhOTg2&quot; /&gt;
+&lt;meta property=&quot;og:site_name&quot; content=&quot;Twitter&quot; /&gt;
+&lt;meta name=&quot;apple-mobile-web-app-title&quot; content=&quot;Twitter&quot; /&gt;
+&lt;meta name=&quot;apple-mobile-web-app-status-bar-style&quot; content=&quot;white&quot; /&gt;"><pre class="notranslate"><span class="pl-c1">&lt;!DOCTYPE html<span class="pl-kos">&gt;</span></span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">html</span> <span class="pl-c1">dir</span>="<span class="pl-s">ltr</span>" <span class="pl-c1">lang</span>="<span class="pl-s">en</span>"<span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">charset</span>="<span class="pl-s">utf-8</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">name</span>="<span class="pl-s">viewport</span>" <span class="pl-c1">content</span>="<span class="pl-s">width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">link</span> <span class="pl-c1">rel</span>="<span class="pl-s">preconnect</span>" <span class="pl-c1">href</span>="<span class="pl-s">//abs.twimg.com</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">link</span> <span class="pl-c1">rel</span>="<span class="pl-s">dns-prefetch</span>" <span class="pl-c1">href</span>="<span class="pl-s">//abs.twimg.com</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">link</span> <span class="pl-c1">rel</span>="<span class="pl-s">preload</span>" <span class="pl-c1">as</span>="<span class="pl-s">script</span>" <span class="pl-c1">crossorigin</span>="<span class="pl-s">anonymous</span>" <span class="pl-c1">href</span>="<span class="pl-s">https://abs.twimg.com/responsive-web/client-web/vendors~main.251a14e5.js</span>" <span class="pl-c1">nonce</span>="<span class="pl-s">ODlhNDZiYmMtZGNiOC00MDcxLTg5MmYtMTg2Y2NkYjVhOTg2</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">property</span>="<span class="pl-s">og:site_name</span>" <span class="pl-c1">content</span>="<span class="pl-s">Twitter</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">name</span>="<span class="pl-s">apple-mobile-web-app-title</span>" <span class="pl-c1">content</span>="<span class="pl-s">Twitter</span>" /&gt;
+<span class="pl-kos">&lt;</span><span class="pl-ent">meta</span> <span class="pl-c1">name</span>="<span class="pl-s">apple-mobile-web-app-status-bar-style</span>" <span class="pl-c1">content</span>="<span class="pl-s">white</span>" /&gt;</pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>逐行解释清楚并附带使用场景是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/29#issuecomment-1081345113" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/29/hovercard">childrentime的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[为什么Vue没有React那么多性能优化API？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/30</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/30</guid>
+  <pubDate>2022-03-30</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto"><code class="notranslate">React</code>中有很多与性能优化相关的API，比如：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">PureComponent</p>
+</li>
+<li>
+<p dir="auto">React.memo</p>
+</li>
+<li>
+<p dir="auto">useMemo、useCallback</p>
+</li>
+<li>
+<p dir="auto">shouldComponentUpdate</p>
+</li>
+</ul>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">这些API增加了<code class="notranslate">React</code>新人的学习成本，反观<code class="notranslate">Vue</code>性能优化相关的API却很少，这是为什么呢？</p>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>条理清晰，回答有逻辑性</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/30#issuecomment-1081361426" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/30/hovercard">a145789的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何选择React状态管理库？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/33</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/33</guid>
+  <pubDate>2022-09-30</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明刚开始使用<code class="notranslate">React</code>，面对众多的状态管理库(Redux、MobX、Recoil、Zustand、Jotai、valtio...)他有点不知所措</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">你能从以下角度帮他分析如何做状态管理库的选型么？</p>
+<ol dir="auto">
+<li>从业务规模角度分析（自己的练手项目、几个人参与的一次性的小项目、团队参与的长期维护的大项目...）</li>
+<li>从管理的状态类型分析（与用户交互相关的状态、服务端请求回的数据...）</li>
+<li>从应用类型分析（普通活动页、富文本编辑器...）</li>
+<li>其他角度（比如普及度、上手难度）</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<p dir="auto">请从以上角度有条理作答，细致而全面的答案是加分项</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现数组扁平化]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/34</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/34</guid>
+  <pubDate>2022-03-31</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto">在 JavaScript 中实现拍平数组，你有几种方法？</p>
+<h3 dir="auto">代码示例</h3>
+
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="// 给你一个数组：[1, [2, 3, [4], 5], 6]
+// 你需要输出： [1, 2, 3, 4, 5, 6]"><pre class="notranslate"><span class="pl-c">// 给你一个数组：[1, [2, 3, [4], 5], 6]</span>
+<span class="pl-c">// 你需要输出： [1, 2, 3, 4, 5, 6]</span></pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>如果给出多种解决方案，请简要阐明他们的优劣</li>
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例、是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/34#issuecomment-1082556189" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/34/hovercard">childrentime的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[如何跨团队推进项目落地？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/35</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/35</guid>
+  <pubDate>2022-04-07</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明今年的 OKR 是自研监控埋点系统并跨多个团队推进项目落地，这是他第一次负责需要跨多个团队的项目，你可以从以下几点给他建议么？</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">1.跨团队推进项目落地的过程中有哪些坑点需要注意？</p>
+<p dir="auto">2.跨团队推进项目落地有哪些好的方法论或原则？</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/35#issuecomment-1082541379" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/35/hovercard">Gamehu的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是当日18：00左右评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现核辐射警告标志]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/38</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/38</guid>
+  <pubDate>2022-04-03</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+<p dir="auto">核辐射警告标志是一个 60 度扇形黄、黑相间的圆。请使用 html 和 css 在网页中始终垂直、水平居中显示一个半径 100px 的核辐射警告标志图，效果如下图：</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/15828041/160957545-4949dad0-1643-43da-a8bf-a9f7246fa1db.png"><img src="https://user-images.githubusercontent.com/15828041/160957545-4949dad0-1643-43da-a8bf-a9f7246fa1db.png" alt="image" style="max-width: 100%;"></a></p>
+
+<h3 dir="auto">代码示例</h3>
+<p dir="auto">html:</p>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;div&gt;...&lt;/div&gt;"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span>...<span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span></pre></div>
+<p dir="auto">css:</p>
+<div class="highlight highlight-source-css notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="div {
+  /*  ... */
+}"><pre class="notranslate"><span class="pl-ent">div</span> {
+  <span class="pl-c">/*  ... */</span>
+}</pre></div>
+
+<h3 dir="auto">最佳答案评选标准</h3>
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>尽可能少使用的DOM元素</li>
+<li>不需要考虑浏览器的兼容性</li>
+</ol>
+
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/38#issuecomment-1084144160" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/38/hovercard">Haifeng-L的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Vue应用卡顿该如何排查？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/39</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/39</guid>
+  <pubDate>2022-04-08</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">用户反馈你们的应用操作起来卡顿，应用是<code class="notranslate">React</code>开发的。</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">你该如何排查是哪些组件造成性能瓶颈？请写出你的排查步骤</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> 本题的重点是排查<code class="notranslate">组件</code>性能瓶颈，请将重点放在<code class="notranslate">Vue</code>上，而不是通用的性能优化策略</p>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>回答条理清晰</li>
+<li>从<code class="notranslate">Vue</code>角度排查问题</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/39#issuecomment-1084022004" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/39/hovercard">fightZy的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现JSON与Vue模版相互转换]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/42</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/42</guid>
+  <pubDate>2022-05-05</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+<p dir="auto">实现JSON与Vue模版相互转换：</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="// 给定的数据源
+const data = {
+  name: {
+    value: 'byoungd',
+    style: {
+      bold: true,
+      italic: true,
+      inline: false,
+    },
+    tag: 'p',
+  },
+  age: {
+    value: 18,
+    style: {
+      bold: false,
+      italic: true,
+    },
+    tag: 'h2',
+  },
+  skills: [
+    {
+      id: '0',
+      value: 'Vue',
+      style: {
+        bold: true,
+        italic: false,
+      },
+      tag: 'span',
+    },
+    {
+      id: '1',
+      value: 'React',
+      style: {
+        bold: true,
+        italic: false,
+      },
+      tag: 'span',
+    },
+    {
+      id: '2',
+      value: 'Rust',
+      style: {
+        bold: false,
+        italic: true,
+      },
+      tag: 'span',
+    },
+  ],
+}
+
+// 用于拼接“样式字符串”的帮助方法
+const styleHelper = (style) =&gt; {
+  const dict = {
+    bold: 'font-weight: bold;',
+    italic: 'font-style: italic;',
+  }
+  return Object.keys(style)
+    .map((key) =&gt; (style[key] ? dict[key] : ''))
+    .filter((str) =&gt; str)
+    .join(';')
+}"><pre class="notranslate"><span class="pl-c">// 给定的数据源</span>
+<span class="pl-k">const</span> <span class="pl-s1">data</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+  <span class="pl-c1">name</span>: <span class="pl-kos">{</span>
+    <span class="pl-c1">value</span>: <span class="pl-s">'byoungd'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">style</span>: <span class="pl-kos">{</span>
+      <span class="pl-c1">bold</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+      <span class="pl-c1">italic</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+      <span class="pl-c1">inline</span>: <span class="pl-c1">false</span><span class="pl-kos">,</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-c1">tag</span>: <span class="pl-s">'p'</span><span class="pl-kos">,</span>
+  <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-c1">age</span>: <span class="pl-kos">{</span>
+    <span class="pl-c1">value</span>: <span class="pl-c1">18</span><span class="pl-kos">,</span>
+    <span class="pl-c1">style</span>: <span class="pl-kos">{</span>
+      <span class="pl-c1">bold</span>: <span class="pl-c1">false</span><span class="pl-kos">,</span>
+      <span class="pl-c1">italic</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-c1">tag</span>: <span class="pl-s">'h2'</span><span class="pl-kos">,</span>
+  <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-c1">skills</span>: <span class="pl-kos">[</span>
+    <span class="pl-kos">{</span>
+      <span class="pl-c1">id</span>: <span class="pl-s">'0'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">value</span>: <span class="pl-s">'Vue'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">style</span>: <span class="pl-kos">{</span>
+        <span class="pl-c1">bold</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+        <span class="pl-c1">italic</span>: <span class="pl-c1">false</span><span class="pl-kos">,</span>
+      <span class="pl-kos">}</span><span class="pl-kos">,</span>
+      <span class="pl-c1">tag</span>: <span class="pl-s">'span'</span><span class="pl-kos">,</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-kos">{</span>
+      <span class="pl-c1">id</span>: <span class="pl-s">'1'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">value</span>: <span class="pl-s">'React'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">style</span>: <span class="pl-kos">{</span>
+        <span class="pl-c1">bold</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+        <span class="pl-c1">italic</span>: <span class="pl-c1">false</span><span class="pl-kos">,</span>
+      <span class="pl-kos">}</span><span class="pl-kos">,</span>
+      <span class="pl-c1">tag</span>: <span class="pl-s">'span'</span><span class="pl-kos">,</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+    <span class="pl-kos">{</span>
+      <span class="pl-c1">id</span>: <span class="pl-s">'2'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">value</span>: <span class="pl-s">'Rust'</span><span class="pl-kos">,</span>
+      <span class="pl-c1">style</span>: <span class="pl-kos">{</span>
+        <span class="pl-c1">bold</span>: <span class="pl-c1">false</span><span class="pl-kos">,</span>
+        <span class="pl-c1">italic</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
+      <span class="pl-kos">}</span><span class="pl-kos">,</span>
+      <span class="pl-c1">tag</span>: <span class="pl-s">'span'</span><span class="pl-kos">,</span>
+    <span class="pl-kos">}</span><span class="pl-kos">,</span>
+  <span class="pl-kos">]</span><span class="pl-kos">,</span>
+<span class="pl-kos">}</span>
+
+<span class="pl-c">// 用于拼接“样式字符串”的帮助方法</span>
+<span class="pl-k">const</span> <span class="pl-en">styleHelper</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-s1">style</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-s1">dict</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+    <span class="pl-c1">bold</span>: <span class="pl-s">'font-weight: bold;'</span><span class="pl-kos">,</span>
+    <span class="pl-c1">italic</span>: <span class="pl-s">'font-style: italic;'</span><span class="pl-kos">,</span>
+  <span class="pl-kos">}</span>
+  <span class="pl-k">return</span> <span class="pl-v">Object</span><span class="pl-kos">.</span><span class="pl-en">keys</span><span class="pl-kos">(</span><span class="pl-s1">style</span><span class="pl-kos">)</span>
+    <span class="pl-kos">.</span><span class="pl-en">map</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">key</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">(</span><span class="pl-s1">style</span><span class="pl-kos">[</span><span class="pl-s1">key</span><span class="pl-kos">]</span> ? <span class="pl-s1">dict</span><span class="pl-kos">[</span><span class="pl-s1">key</span><span class="pl-kos">]</span> : <span class="pl-s">''</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+    <span class="pl-kos">.</span><span class="pl-en">filter</span><span class="pl-kos">(</span><span class="pl-kos">(</span><span class="pl-s1">str</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-s1">str</span><span class="pl-kos">)</span>
+    <span class="pl-kos">.</span><span class="pl-en">join</span><span class="pl-kos">(</span><span class="pl-s">';'</span><span class="pl-kos">)</span>
+<span class="pl-kos">}</span></pre></div>
+<p dir="auto">预期的<code class="notranslate">templateString</code>如下：</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="const templateString = `&lt;template&gt;
+  &lt;div&gt;
+    &lt;div&gt;
+      &lt;p :style=&quot;styleHelper(name.style)&quot;&gt;{{ name.value }}&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+      &lt;h2 :style=&quot;styleHelper(age.style)&quot;&gt;{{ age.value }}&lt;/h2&gt;
+    &lt;/div&gt;
+    &lt;div v-for=&quot;skill in skills&quot; :key=&quot;skill.id&quot;&gt;
+      &lt;span :style=&quot;styleHelper(skill.style)&quot;&gt;{{ skill.value }}&lt;/span&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/template&gt;
+`
+
+const createTemplate = () =&gt; { /* 需要实现... */ }
+
+// 这里的 === 仅仅用于说明 表示可以相互转换
+
+createTemplate(data)  // 执行后返回templateString
+parseTemplate(templateString)  // 执行后返回data
+"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-s1">templateString</span> <span class="pl-c1">=</span> <span class="pl-s">`&lt;template&gt;</span>
+<span class="pl-s">  &lt;div&gt;</span>
+<span class="pl-s">    &lt;div&gt;</span>
+<span class="pl-s">      &lt;p :style="styleHelper(name.style)"&gt;{{ name.value }}&lt;/p&gt;</span>
+<span class="pl-s">    &lt;/div&gt;</span>
+<span class="pl-s">    &lt;div&gt;</span>
+<span class="pl-s">      &lt;h2 :style="styleHelper(age.style)"&gt;{{ age.value }}&lt;/h2&gt;</span>
+<span class="pl-s">    &lt;/div&gt;</span>
+<span class="pl-s">    &lt;div v-for="skill in skills" :key="skill.id"&gt;</span>
+<span class="pl-s">      &lt;span :style="styleHelper(skill.style)"&gt;{{ skill.value }}&lt;/span&gt;</span>
+<span class="pl-s">    &lt;/div&gt;</span>
+<span class="pl-s">  &lt;/div&gt;</span>
+<span class="pl-s">&lt;/template&gt;</span>
+<span class="pl-s">`</span>
+
+<span class="pl-k">const</span> <span class="pl-en">createTemplate</span> <span class="pl-c1">=</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span> <span class="pl-c">/* 需要实现... */</span> <span class="pl-kos">}</span>
+
+<span class="pl-c">// 这里的 === 仅仅用于说明 表示可以相互转换</span>
+
+<span class="pl-en">createTemplate</span><span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span>  <span class="pl-c">// 执行后返回templateString</span>
+<span class="pl-en">parseTemplate</span><span class="pl-kos">(</span><span class="pl-s1">templateString</span><span class="pl-kos">)</span>  <span class="pl-c">// 执行后返回data</span></pre></div>
+<p dir="auto">实现 <code class="notranslate">createTemplate</code> 和 <code class="notranslate">parseTemplate</code> 函数</p>
+<h3 dir="auto">代码示例</h3>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="// createTemplate函数： 输入的模板字符串需要和createTemplate处理后生成的一致
+console.log(templateString === createTemplate(data))
+
+// 预期为 true
+
+
+// parseTemplate函数： 由于对象的对比稍微复杂一些，我们暂且认为只要是值key value是正确的即可
+console.log(JSON.stringify(data) === JSON.stringify(parseTemplate(templateString)))
+
+// 预期为 true
+"><pre class="notranslate"><span class="pl-c">// createTemplate函数： 输入的模板字符串需要和createTemplate处理后生成的一致</span>
+<span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-s1">templateString</span> <span class="pl-c1">===</span> <span class="pl-en">createTemplate</span><span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-c">// 预期为 true</span>
+
+
+<span class="pl-c">// parseTemplate函数： 由于对象的对比稍微复杂一些，我们暂且认为只要是值key value是正确的即可</span>
+<span class="pl-smi">console</span><span class="pl-kos">.</span><span class="pl-en">log</span><span class="pl-kos">(</span><span class="pl-c1">JSON</span><span class="pl-kos">.</span><span class="pl-en">stringify</span><span class="pl-kos">(</span><span class="pl-s1">data</span><span class="pl-kos">)</span> <span class="pl-c1">===</span> <span class="pl-c1">JSON</span><span class="pl-kos">.</span><span class="pl-en">stringify</span><span class="pl-kos">(</span><span class="pl-en">parseTemplate</span><span class="pl-kos">(</span><span class="pl-s1">templateString</span><span class="pl-kos">)</span><span class="pl-kos">)</span><span class="pl-kos">)</span>
+
+<span class="pl-c">// 预期为 true</span></pre></div>
+<p dir="auto">从模板字符串转为<code class="notranslate">JSON</code>时，<code class="notranslate">JSON</code>中的数据可以从由<code class="notranslate">Vue</code>渲染后的<code class="notranslate">html</code>结果得出</p>
+<h3 dir="auto">最佳答案评选标准</h3>
+<ul dir="auto">
+<li>限定使用<code class="notranslate">typescript</code></li>
+<li>需要提供 <code class="notranslate">codesandbox/stackblitz</code> 在线示例</li>
+<li>需要满足两者的相互转换</li>
+<li>拓展性 如果data的数据更复杂一些 需要可以正常转换</li>
+<li>安全性 需要处理符号转义</li>
+</ul>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Webpack中几种hash的区别是？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/43</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/43</guid>
+  <pubDate>2022-04-08</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明初次接触<code class="notranslate">webpack</code>，了解到<code class="notranslate">hash</code>这一概念，但不清楚他的应用场景及分类。</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">你能以如下顺序帮小明解惑么：</p>
+<ol dir="auto">
+<li>为什么有<code class="notranslate">hash</code>，他的应用场景是什么？</li>
+<li>在<code class="notranslate">webpack</code>中有几种<code class="notranslate">hash</code>，他们的分类依据是？</li>
+<li>对不同类型的<code class="notranslate">hash</code>什么时候使用，你能给出一些最佳实践么？</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>答案遵循以上顺序作答</li>
+<li>有条理，全面的回答</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/43#issuecomment-1085374899" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/43/hovercard">shenzhim的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[虚拟DOM的意义是什么？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/46</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/46</guid>
+  <pubDate>2022-04-15</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">一些流行的前端框架会使用虚拟DOM技术，比如Vue、React。</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">请从以下角度回答：</p>
+<ol dir="auto">
+<li>为什么需要虚拟DOM？</li>
+<li>虚拟DOM有哪些优势？</li>
+<li>虚拟DOM有哪些劣势？</li>
+<li>如果不使用虚拟DOM，还有哪些替代方案？</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<p dir="auto">按以上角度尽可能详细回答</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/46#issuecomment-1094266938" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/46/hovercard">xwxgjs的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[get与post请求的区别是？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/47</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/47</guid>
+  <pubDate>2022-04-08</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要回答的问题</h3>
+
+<p dir="auto"><code class="notranslate">get</code>与<code class="notranslate">post</code>都是常见的<code class="notranslate">HTTP</code>请求方法，请从以下角度回答他们的区别：</p>
+<ol dir="auto">
+<li>语义的区别</li>
+<li>应用场景的区别</li>
+<li>请求url、请求头、请求体的区别</li>
+<li>其他方面（比如安全、长度限制...）的区别</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<p dir="auto">按如上所列角度全面、详细的回答</p>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/47#issuecomment-1090104352" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/47/hovercard">xiaxiangfeng的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[要入职外包吗？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/48</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/48</guid>
+  <pubDate>2022-04-12</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明的学历一般，但工作能力还行，当前薪酬13k。最近拿到一家外包公司<code class="notranslate">offer</code>，薪酬开到20k。</p>
+<p dir="auto">面试过程很简单，一面问了基础和项目，二面就简单聊了下接下来的工作。</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">请从以下角度帮小明分析要不要接这个<code class="notranslate">offer</code>：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">外包的职业发展前景</p>
+</li>
+<li>
+<p dir="auto">外包的晋升路径</p>
+</li>
+<li>
+<p dir="auto">进了外包，再找工作会受到歧视么？</p>
+</li>
+</ul>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>
+<p dir="auto">按以上角度回答问题</p>
+</li>
+<li>
+<p dir="auto">有自身切实经历是加分项</p>
+</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/48#issuecomment-1092633407" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/48/hovercard">lkzwc的回答</a></p>
+<p dir="auto">另外，<a href="https://github.com/BetaSu/fe-hunter/issues/48#issuecomment-1091104453" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/48/hovercard">这篇文章</a>很值得参考阅读</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现字符串reverse方法]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/49</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/49</guid>
+  <pubDate>2022-04-12</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto">在 JS 中反转一个字符串，你有几种方法？</p>
+<h3 dir="auto">代码示例</h3>
+
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="function reverseStr(str: string): string {
+  // ...实现
+}
+
+// 输入字符串: 'Hello World!'
+reverseStr('Hello World!')
+// 输出: '!dlroW olleH'"><pre class="notranslate"><span class="pl-k">function</span> <span class="pl-en">reverseStr</span><span class="pl-kos">(</span><span class="pl-s1">str</span>: <span class="pl-s1">string</span><span class="pl-kos">)</span>: <span class="pl-s1">string</span> <span class="pl-kos">{</span>
+  <span class="pl-c">// ...实现</span>
+<span class="pl-kos">}</span>
+
+<span class="pl-c">// 输入字符串: 'Hello World!'</span>
+<span class="pl-en">reverseStr</span><span class="pl-kos">(</span><span class="pl-s">'Hello World!'</span><span class="pl-kos">)</span>
+<span class="pl-c">// 输出: '!dlroW olleH'</span></pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>不需要考虑异常发生</li>
+<li>附带测试用例、多种实现方式是加分项</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/49#issuecomment-1090972161" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/49/hovercard">virgo569157的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Https建立连接的过程是？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/52</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/52</guid>
+  <pubDate>2022-11-29</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要回答的问题</h3>
+
+<p dir="auto">请按以下顺序回答<code class="notranslate">HTTPS</code>建立连接过程：</p>
+<ol dir="auto">
+<li><code class="notranslate">Https</code>是什么？</li>
+<li><code class="notranslate">Https</code>建立连接的过程</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>按顺序答题</li>
+<li>图文并貌是加分项</li>
+<li>对出现的专有名词作出解释是加分项（比如SSL、对称/非对称加密）</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现相对完备的深拷贝方法]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/53</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/53</guid>
+  <pubDate>2022-04-12</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto">实现一个深拷贝方法，特别注意需要支持如下数据结构：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">支持<code class="notranslate">Date</code></p>
+</li>
+<li>
+<p dir="auto">支持<code class="notranslate">Symbol</code></p>
+</li>
+<li>
+<p dir="auto">支持<code class="notranslate">Function</code></p>
+</li>
+<li>
+<p dir="auto">支持<code class="notranslate">RegExp</code></p>
+</li>
+<li>
+<p dir="auto">对于<strong>环状引用</strong>不会报错</p>
+</li>
+</ul>
+<p dir="auto"><strong>环状引用</strong>参考如下数据结构：</p>
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="const a = {};
+a.a = a;"><pre class="notranslate"><span class="pl-k">const</span> <span class="pl-s1">a</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span><span class="pl-kos">}</span><span class="pl-kos">;</span>
+<span class="pl-s1">a</span><span class="pl-kos">.</span><span class="pl-c1">a</span> <span class="pl-c1">=</span> <span class="pl-s1">a</span><span class="pl-kos">;</span></pre></div>
+<h3 dir="auto">代码示例</h3>
+
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="function deepClone(obj) {
+ // ...实现
+}"><pre class="notranslate"><span class="pl-k">function</span> <span class="pl-en">deepClone</span><span class="pl-kos">(</span><span class="pl-s1">obj</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+ <span class="pl-c">// ...实现</span>
+<span class="pl-kos">}</span></pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto"><a href="https://github.com/BetaSu/fe-hunter/issues/53#issuecomment-1092382804" data-hovercard-type="issue" data-hovercard-url="/BetaSu/fe-hunter/issues/53/hovercard">Chorer的回答</a></p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现文本过长溢出处理]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/54</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/54</guid>
+  <pubDate>2022-10-25</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto"><code class="notranslate">CSS</code>中文本过长溢出时，省略号该如何处理？要考虑极端情况，如：都是数字或者都是字母时</p>
+<h3 dir="auto">代码示例</h3>
+
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带效果截图是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现两个Li标签的交换]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/55</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/55</guid>
+  <pubDate>2022-08-15</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要回答的问题</h3>
+
+<p dir="auto">将如下<code class="notranslate">DOM</code>片段中的第一个<code class="notranslate">li</code>标签和第三个<code class="notranslate">li</code>标签交换位置。请按照如下顺序作答：</p>
+<ol dir="auto">
+<li>使用<code class="notranslate">JS</code>实现</li>
+<li>不使用<code class="notranslate">JS</code>，只使用<code class="notranslate">CSS</code>实现</li>
+</ol>
+<div class="highlight highlight-text-html-basic notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="&lt;ul&gt;
+  &lt;li&gt;1&lt;/li&gt;
+  &lt;li&gt;2&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+  &lt;li&gt;4&lt;/li&gt;
+  &lt;li&gt;5&lt;/li&gt;
+&lt;/ul&gt;"><pre class="notranslate"><span class="pl-kos">&lt;</span><span class="pl-ent">ul</span><span class="pl-kos">&gt;</span>
+  <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>1<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
+  <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>2<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
+  <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>3<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
+  <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>4<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
+  <span class="pl-kos">&lt;</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>5<span class="pl-kos">&lt;/</span><span class="pl-ent">li</span><span class="pl-kos">&gt;</span>
+<span class="pl-kos">&lt;/</span><span class="pl-ent">ul</span><span class="pl-kos">&gt;</span></pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>多种实现方式并简要阐明它们的优劣是加分项</li>
+<li>不过度设计，代码简洁优雅是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Webpack的module、chunk、bundle的意义是？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/59</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/59</guid>
+  <pubDate>2022-09-30</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">小明初次接触<code class="notranslate">Webpack</code>，发现关于“打包”，存在三个概念：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">module</p>
+</li>
+<li>
+<p dir="auto">chunk</p>
+</li>
+<li>
+<p dir="auto">bundle</p>
+</li>
+</ul>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">你能从以下角度向他解释三者的关系么：</p>
+<ul dir="auto">
+<li>
+<p dir="auto">三者的定义</p>
+</li>
+<li>
+<p dir="auto">三者互相之间的关联</p>
+</li>
+</ul>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>按以上角度答题</li>
+<li>给出示例是加分项</li>
+<li>能拓展其他打包工具的类似概念是极大的加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[实现防抖和节流]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/60</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/60</guid>
+  <pubDate>2022-07-13</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">要实现的功能</h3>
+
+<p dir="auto">请按照以下顺序回答该问题：</p>
+<p dir="auto">1.什么是防抖和节流？<br>
+2.应用场景有哪些？<br>
+3.手写防抖和节流，简单版本即可。</p>
+<h3 dir="auto">代码示例</h3>
+
+<div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="function debounce() {
+  // ...
+}
+
+function throttling() {
+  // ...
+}"><pre class="notranslate"><span class="pl-k">function</span> <span class="pl-en">debounce</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-c">// ...</span>
+<span class="pl-kos">}</span>
+
+<span class="pl-k">function</span> <span class="pl-en">throttling</span><span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-kos">{</span>
+  <span class="pl-c">// ...</span>
+<span class="pl-kos">}</span></pre></div>
+<h3 dir="auto">最佳答案评选标准</h3>
+ 
+<ol dir="auto">
+<li>请写出实现思路、代码，并为代码的关键步骤增写注释</li>
+<li>附带测试用例是加分项</li>
+<li>不需要考虑异常发生</li>
+<li>实现简单版本的基础上，能提出可以优化的扩展点是加分项</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[运行时/编译时前端框架都有哪些优缺点？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/62</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/62</guid>
+  <pubDate>2022-05-09</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">主流的前端框架从实现原理讲，一般分为：</p>
+<ul dir="auto">
+<li>纯运行时（比如<code class="notranslate">React</code>）</li>
+<li>运行时 + 编译时（比如<code class="notranslate">Vue</code>）</li>
+<li>纯编译时（比如<code class="notranslate">Svelte</code>）</li>
+</ul>
+<p dir="auto">你能从以下角度回答该问题么？</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<ol dir="auto">
+<li>列举对应的框架，分别解释什么是运行时、编译时、运行时 + 编译时？</li>
+<li>它们有哪些优缺点？</li>
+</ol>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>答案遵循以上顺序作答</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[浏览器缓存策略知多少？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/64</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/64</guid>
+  <pubDate>2022-08-11</pubDate>
+  <description><![CDATA[
+<h3 dir="auto">发生问题的场景</h3>
+
+<p dir="auto">浏览器的缓存策略一般分为<strong>强缓存</strong>和<strong>协商缓存</strong>，你知道他们之间的区别吗？</p>
+<h3 dir="auto">需要解决的问题</h3>
+
+<p dir="auto">请按照一下顺序回答：</p>
+<p dir="auto">1.什么是强缓存？什么是协商缓存？<br>
+2.与他们有关的请求/响应头字段有哪些？分别是什么含义？<br>
+3.从缓存角度回答 Ctrl + F5 强制刷新网页和 F5 刷新网页的区别。</p>
+<h3 dir="auto">最佳答案评选标准</h3>
+
+<ol dir="auto">
+<li>答案遵循以上顺序作答</li>
+</ol>
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[cd]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/67</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/67</guid>
+  <pubDate>2022-06-14</pubDate>
+  <description><![CDATA[
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[为什么Mocha等测试库的describe和it函数没有导入却可以使用？]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/68</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/68</guid>
+  <pubDate>2022-07-17</pubDate>
+  <description><![CDATA[
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[react使用wangEditor上传图片怎么自定义添加样式]]></title>
+  <link>https://github.com/fe-cool/hunter/discussions/70</link>
+  <guid isPermaLink="false">https://github.com/fe-cool/hunter/discussions/70</guid>
+  <pubDate>2022-11-01</pubDate>
+  <description><![CDATA[
+<h2 dir="auto">最佳答案</h2>
+<p dir="auto">悬赏中，欢迎作答...</p>
+<h3 dir="auto">答题同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">答题规范：请在<code class="notranslate">一次评论</code>中完成作答，后续修改也请编辑该评论，而不是追加新的评论</p>
+</li>
+<li>
+<p dir="auto">评选标准：最佳答案由<code class="notranslate">围观同学</code>的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji> 和<a href="https://github.com/BetaSu">卡颂</a>共同决定</p>
+</li>
+<li>
+<p dir="auto">评选时间：一般是问题发布24小时后评选，如果问题发布当天回答数较少，问题悬赏金额可能增加，同时悬赏时间也会增加</p>
+</li>
+</ul>
+<h3 dir="auto">围观同学须知</h3>
+<ul dir="auto">
+<li>
+<p dir="auto">对于你满意的答案，请不要吝惜你的 <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji>，这是评选<strong>最佳答案</strong>的依据</p>
+</li>
+<li>
+<p dir="auto"><code class="notranslate">非答题的评论</code>会被删除，问题相关讨论请在<a href="https://github.com/BetaSu/fe-hunter">赏金猎人群</a>中进行</p>
+</li>
+</ul>]]></description>
+</item>
+
+</channel>
+</rss>

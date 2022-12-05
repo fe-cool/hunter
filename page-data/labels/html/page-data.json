@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/html",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"首屏渲染白屏时间如何优化？","number":4}},{"node":{"title":"如何实现水平垂直居中？","number":26}},{"node":{"title":"Twitter源码中前十行的作用是？","number":29}},{"node":{"title":"实现核辐射警告标志","number":38}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87rfe7-","name":"HTML","color":"66bb6a","description":"l1：HTML 相关"},"name":"HTML","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

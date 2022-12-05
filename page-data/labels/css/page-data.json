@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/css",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何实现水平垂直居中？","number":26}},{"node":{"title":"实现核辐射警告标志","number":38}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87rfe79","name":"CSS","color":"ab47bc","description":"l1：CSS 相关"},"name":"CSS","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

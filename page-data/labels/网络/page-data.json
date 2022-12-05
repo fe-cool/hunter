@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/网络",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"get与post请求的区别是？","number":47}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87uvHOO","name":"网络","color":"FBCA04","description":"l1：计算机网络相关"},"name":"网络","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

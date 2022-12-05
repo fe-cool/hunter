@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/react",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"React应用卡顿该如何排查？","number":3}},{"node":{"title":"首屏渲染白屏时间如何优化？","number":4}},{"node":{"title":"为什么Vue没有React那么多性能优化API？","number":30}},{"node":{"title":"虚拟DOM的意义是什么？","number":46}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87rnLr2","name":"React","color":"fbc02d","description":"l3：React 相关"},"name":"React","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

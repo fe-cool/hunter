@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/基础",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何实现水平垂直居中？","number":26}},{"node":{"title":"Twitter源码中前十行的作用是？","number":29}},{"node":{"title":"get与post请求的区别是？","number":47}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87sJLnf","name":"基础","color":"1e88e5","description":"基础技术问题"},"name":"基础","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

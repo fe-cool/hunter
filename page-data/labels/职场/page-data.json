@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/职场",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何应对产品经理中途改需求？","number":5}},{"node":{"title":"遇到线上bug该如何处理？","number":8}},{"node":{"title":"如何准备述职报告？","number":16}},{"node":{"title":"面对裁员该怎么办？","number":27}},{"node":{"title":"如何跨团队推进项目落地？","number":35}},{"node":{"title":"要入职外包吗？","number":48}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87r00pI","name":"职场","color":"64b5f6","description":"程序员工作中发生的问题"},"name":"职场","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

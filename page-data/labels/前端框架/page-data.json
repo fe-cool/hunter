@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/前端框架",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"为什么Vue没有React那么多性能优化API？","number":30}},{"node":{"title":"虚拟DOM的意义是什么？","number":46}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87sJeC1","name":"前端框架","color":"ff9100","description":"l2：前端框架相关"},"name":"前端框架","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

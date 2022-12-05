@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/webpack",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何排查webpack打包产物大的问题？","number":1}},{"node":{"title":"如何选择前端打包工具？","number":9}},{"node":{"title":"Webpack中几种hash的区别是？","number":43}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87rfe8B","name":"webpack","color":"ff8f00","description":"l3：webpack 相关"},"name":"webpack","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

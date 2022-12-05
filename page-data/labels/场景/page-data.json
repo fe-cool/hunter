@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/场景",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何排查webpack打包产物大的问题？","number":1}},{"node":{"title":"React应用卡顿该如何排查？","number":3}},{"node":{"title":"首屏渲染白屏时间如何优化？","number":4}},{"node":{"title":"如何选择前端打包工具？","number":9}},{"node":{"title":"为什么Vue没有React那么多性能优化API？","number":30}},{"node":{"title":"Vue应用卡顿该如何排查？","number":39}},{"node":{"title":"Webpack中几种hash的区别是？","number":43}},{"node":{"title":"虚拟DOM的意义是什么？","number":46}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87sJKjc","name":"场景","color":"2196f3","description":"具体业务场景下的问题"},"name":"场景","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}

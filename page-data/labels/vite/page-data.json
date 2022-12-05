@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-labels-tsx",
+    "path": "/labels/vite",
+    "result": {"data":{"allDiscussionsJson":{"nodes":[{"node":{"title":"如何选择前端打包工具？","number":9}}]}},"pageContext":{"labels":{"id":"LA_kwDOHCfdf87rfe8D","name":"Vite","color":"ff6f00","description":"l3：Vite 相关问题"},"name":"Vite","nlen":2}},
+    "staticQueryHashes": ["151096407","2861350382"]}
